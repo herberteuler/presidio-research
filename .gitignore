@@ -190,3 +190,6 @@ datasets/
 
 *.spacy
 *.pickle
+
+# micromamba
+.mamba/
